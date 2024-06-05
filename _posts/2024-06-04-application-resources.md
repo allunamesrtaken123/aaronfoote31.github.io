@@ -1,13 +1,15 @@
 --- 
 title: "First Post!" 
 date: 2024-06-05T15:34:30-04:00 
+categories:
+  - Apps
 --- 
 
 I've tried to compile all of the helpful resources for applying to graduate schools that I've come across in my own searches. It's not particularly organized, but it includes information on setting the right intention, identifying schools, applying for fellowships, and frequent difficulties of graduate school. Given my interests in statistics and computer science, most of these resources are from professors in those fields. 
 
-[https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf](Manuscript) for an informal talk given by [https://www.cs.cmu.edu/~harchol/](Professor Mor Harchol-Balter) that covers a range of topics on grad school. In my opinion, it's a great place to start. 
+[Manuscript](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) for an informal talk given by [Professor Mor Harchol-Balter](https://www.cs.cmu.edu/~harchol/) that covers a range of topics on grad school. In my opinion, it's a great place to start. 
 
-An inspiration for compiling this page was the [https://rebeccayelin.github.io/resources.html](repository) compiled by [https://rebeccayelin.github.io/](Rebecca Lin). It has a bunch of very useful resources on writing a statement of purpose. 
+An inspiration for compiling this page was the [repository](https://rebeccayelin.github.io/resources.html) compiled by [Rebecca Lin](https://rebeccayelin.github.io/). It has a bunch of very useful resources on writing a statement of purpose. 
 
 ### Fellowhips 
 
