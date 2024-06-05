@@ -14,17 +14,17 @@ An inspiration for compiling this page was the [https://rebeccayelin.github.io/r
 #### NSF GRFP 
 - Information on the application cycle seems to be posted in mid/late-July 
 - The application itself seems to be due in mid-October 
-- [https://www.research.gov/grfp/Login.do](Here) is a link to the application 
+- [Here](https://www.research.gov/grfp/Login.do) is a link to the application 
 
 #### Hertz 
-- [https://www.hertzfoundation.org/the-fellowship/](Here) is a link to the application 
+- [Here](https://www.hertzfoundation.org/the-fellowship/) is a link to the application 
 - Good luck 
 
 #### DOE Computational Science Graduate Fellowship 
-- [https://www.krellinst.org/csgf/](Here) is a link to the application 
+- [Here](https://www.krellinst.org/csgf/) is a link to the application 
 - It's due in mid-January 
 - Two tracks, one for science/engineering and another for math/CS 
 
 #### NDSEG 
-- [https://ndseg.sysplus.com/](Here) is a link to the application 
+- [Here](https://ndseg.sysplus.com/) is a link to the application 
 - You can't accept this fellowship and other ones (this may hold for other fellowships, not sure)
