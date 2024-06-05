@@ -8,4 +8,5 @@ tags:
   - update
 ---
 
-This is going to be mainly an experimental post right now, but I want to build it up and actually start blogging!
+This is going to be mainly an experimental post right now, but I want to build it up and actually start blogging! This was inspired after reading
+[https://www.swyx.io/learn-in-public](learning in public), linked to on [https://royrinberg.com/](Roy Rinberg's website).
